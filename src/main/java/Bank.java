@@ -8,9 +8,15 @@
  * @see <a href="https://cs125.cs.illinois.edu/lab/5/">Lab 5 Description</a>
  */
 public class Bank {
+    /**
+    /* the name of bank.
+     */
 
     public String bankName;
 
+    /**
+     * constructor.
+     */
     public Bank() {
         bankName = "Illini Bank";
     }
@@ -29,6 +35,7 @@ public class Bank {
         /*
          * Implement this function
          */
+        if()
     }
 
     /**
@@ -45,6 +52,7 @@ public class Bank {
         /*
          * Implement this function
          */
+
     }
 
     /**
@@ -77,6 +85,7 @@ public class Bank {
         /*
          * Implement this function
          */
+        bankAccount.ownerName;
     }
 
     public static int totalAccounts = 0;
@@ -89,6 +98,11 @@ public class Bank {
         /*
          * Implement this function
          */
+        if(name != null) {
+            bankAccount.setOwnerName(final BankAccount bankAccount, final dounle amount) {
+                
+            }
+        }
     }
 
     /**
